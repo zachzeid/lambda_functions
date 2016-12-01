@@ -1,6 +1,6 @@
 import boto3
 import datetime
-
+'''Making a comment to test AWS CodeBuild. '''
 print('Loading function')
 
 now = datetime.datetime.utcnow()
